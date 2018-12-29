@@ -56,8 +56,7 @@ tapcode这个名字来自这里：
 http://gadgetzz.com/2016/01/01/part-two-of-the-creepy-puzzle-11b-3-1369/
 
 "The tapping sound that can be heard has also been identified as ‘tap code’. It has been used as a way for prisoners to communicate between cells."
-在B站找频谱图的时候不小心发现了关键词“11B-X-1371”，一顿Google之后又发现了关键词“tap code”。既然都是用点传递信息那就借用一下吧。
-
-等下写一个演示
 
 在B站找频谱图的时候不小心发现了关键词“11B-X-1371”，一顿Google之后又发现了关键词“tap code”。既然都是用点传递信息那就借用一下吧。
+
+等下写一个演示代码。
