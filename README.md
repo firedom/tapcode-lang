@@ -62,7 +62,6 @@ http://gadgetzz.com/2016/01/01/part-two-of-the-creepy-puzzle-11b-3-1369/
 # How To Use
 
 If you want translate words, input:
-
 python3 tapcode.py nyanya~
 
 The Terminal will return:
