@@ -4,12 +4,15 @@
 https://www.bilibili.com/video/av22527845
 
 第一遍看完觉得很有道理。之后一想感觉不对啊，既然信息都是对具体事物的抽象，那么任何信息都是可以相互转换的。
+
 所以只要用点标记出没有声音的部分就可以了，就像这样：
 
 https://www.bilibili.com/video/av39185094
 
 比如A的电码是·-，用点标记间隔就可以写成·· ·
+
 还可以用··表示-
+
 以此类推：
 
 | 字母 | morse code | tap code |tap code 2 |
