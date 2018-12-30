@@ -161,6 +161,7 @@ def pikalang(str):
                 output += ' '
                 temp = ''
                 continue
+        output += s
 
     
     return output
