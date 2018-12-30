@@ -89,7 +89,7 @@ def pikalang(str):
             output += '·· · · · ·/'
             continue
         if s == '2':
-            output += '··· · · · ·/'
+            output += '··· · · ·/'
             continue
         if s == '3':
             output += '···· · ·/'
