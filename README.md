@@ -76,12 +76,12 @@ The Terminal will return:
 <p>·· ·/··· ·/· ·/·····/· · · ·/·· ··/ /· ····/· ·· · ·/ /··· ··/···/·· ··/··/· ···/· · · ·/· · ·/</p>  
 
 ### IR.py
-If you want translate words, input:
-python3 IR.py "· ··/· ·· · ·/·· ·/· ··/· ·· · ·/·· ·/~"
-The Terminal will return:
-nyanya~
-            
-Or translate sentence, input:
-python3 IR.py "·· ·/··· ·/· ·/·····/· · · ·/·· ··/ /· ····/· ·· · ·/ /··· ··/···/·· ··/··/· ···/· · · ·/· · ·/"
-The Terminal will return:
-author by firedom
+If you want translate words, input:  
+python3 tapcode.py "· ··/· ·· · ·/·· ·/· ··/· ·· · ·/·· ·/~" 
+The Terminal will return:  
+<p>nyanya~~</p>    
+
+Or translate sentence, input:  
+python3 tapcode.py "·· ·/··· ·/· ·/·····/· · · ·/·· ··/ /· ····/· ·· · ·/ /··· ··/···/·· ··/··/· ···/· · · ·/· · ·/"  
+The Terminal will return:  
+<p>author by firedom</p>  
