@@ -71,17 +71,17 @@ The Terminal will return:
 <p>· ··/· ·· · ·/·· ·/· ··/· ·· · ·/·· ·/~</p>    
 
 Or translate sentence, input:  
-python3 tapcode.py "Author by firedom"  
+python3 tapcode.py "author by firedom"  
 The Terminal will return:  
 <p>·· ·/··· ·/· ·/·····/· · · ·/·· ··/ /· ····/· ·· · ·/ /··· ··/···/·· ··/··/· ···/· · · ·/· · ·/</p>  
 
 ### IR.py
 If you want translate words, input:  
-python3 tapcode.py "· ··/· ·· · ·/·· ·/· ··/· ·· · ·/·· ·/~" 
+python3 IR.py "· ··/· ·· · ·/·· ·/· ··/· ·· · ·/·· ·/~" 
 The Terminal will return:  
-<p>nyanya~~</p>    
+<p>nyanya~</p>    
 
 Or translate sentence, input:  
-python3 tapcode.py "·· ·/··· ·/· ·/·····/· · · ·/·· ··/ /· ····/· ·· · ·/ /··· ··/···/·· ··/··/· ···/· · · ·/· · ·/"  
+python3 IR.py "·· ·/··· ·/· ·/·····/· · · ·/·· ··/ /· ····/· ·· · ·/ /··· ··/···/·· ··/··/· ···/· · · ·/· · ·/"  
 The Terminal will return:  
 <p>author by firedom</p>  
