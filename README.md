@@ -85,3 +85,5 @@ Or translate sentence, input:
 python3 IR.py "·· ·/··· ·/· ·/·····/· · · ·/·· ··/ /· ····/· ·· · ·/ /··· ··/···/·· ··/··/· ···/· · · ·/· · ·/"  
 The Terminal will return:  
 <p>author by firedom</p>  
+
+oooolu
